@@ -1,2 +1,4 @@
 # Vue-FullStack-Master
 Esse repositório é um estudo de aprofundamento meu sobre os conceitos estudados do VueJS, um framework para front-end. Ela tem como um foco da revisão e aprofundamento do conceito visto por via do livro FULLSTACK VUE - The Complete Guide to Vue.js.
+
+Obs: Essa revisão foi feita no ano de 2023, sendo que o livro, na qual me apoiei totalmente, foi lançado em 2021. Atualmente, com o lançamento da nova versão Vue3, foi lançado a nova versão do livro acima, FULLSTACK VUE3 - The Complete Guide to Vue.js. Entretanto, como a fonte de aprendizagem que tive de VueJS foi pela Udemy, donde foi abordado VueJS2 e VueJS3, a referência em que eu segui acima abacou se adequando bem para o meu processo de aprofundamento do conceito e a sua atualização para Vue3, não será nem um pouco um empecilho.
